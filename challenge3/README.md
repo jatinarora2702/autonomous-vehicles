@@ -25,9 +25,13 @@ However, from a Direct SLAM perspective, you may find these GitHub repos helpful
 
 ## Demo
 
-Indoor: https://www.youtube.com/watch?v=ZigVMt5cRA4
+**Indoor SLAM**
 
-Outdoor: https://www.youtube.com/watch?v=_qh8o3lFWdw
+[![Indoor SLAM](https://img.youtube.com/vi/ZigVMt5cRA4/0.jpg)](https://www.youtube.com/watch?v=ZigVMt5cRA4)
+
+**Outdoor SLAM**
+
+[![Outdoor SLAM](https://img.youtube.com/vi/_qh8o3lFWdw/0.jpg)](https://www.youtube.com/watch?v=_qh8o3lFWdw)
 
 ## Setup
 
