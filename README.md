@@ -1,6 +1,8 @@
 # Autonomous Vehicles
 
-The repo contains the codes of my experience with autonomous vehicles as part of the [CS 598: Methods for Building Autonomous Vehicles](http://luthuli.cs.uiuc.edu/~daf/courses/MAAV-2020/598-2020-home.html) course, taught by [Prof. David Forsyth](http://luthuli.cs.uiuc.edu/~daf/).
+The repo contains the codes of my experience with autonomous vehicles as part of the [CS 598 MAAV: Methods for Building Autonomous Vehicles](http://luthuli.cs.uiuc.edu/~daf/courses/MAAV-2020/598-2020-home.html) course, taught by [Prof. David Forsyth](http://luthuli.cs.uiuc.edu/~daf/) at UIUC.
+
+More details on assignments and project work can be found in their respective directories.
 
 ## Requirements
 
@@ -38,3 +40,21 @@ $ sudo apt-get install ros-kinetic-pacmod-msgs
 
 **Note**: The ROS packages you install can be found in ```/opt/ros/kinetic/```. You might find the packages in ```share``` subdirectory within.  
 
+### Collaborators
+
+Thanks to our instructor, Prof. David Forsyth and my team members: 
+* Amber Gupta
+* Bhavana Jain
+* Devansh Shah
+* Keval Morabia
+* Manav Mehra
+
+### Contact
+
+Happy to connect for discussions and details: 
+
+```
+Jatin Arora
+jatin2@illinois.edu
+jatinarora2702@gmail.com
+```

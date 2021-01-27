@@ -53,7 +53,7 @@ The ROS Bag files can be downloaded from [here]().
 
 No separate code files are required for completing this challenge. All required changes are done in already present internal files as detailed.
 
-We basically follow the instructions in [this tutorial](). With no changes, you should be able to see the map being formed on the default tutorial rosbag file. 
+We basically follow the instructions in [this tutorial](http://wiki.ros.org/hector_slam/Tutorials/MappingUsingLoggedData). With no changes, you should be able to see the map being formed on the default tutorial rosbag file. 
 
 For us, we recorded the sensor data from the autonomous vehicle into a rosbag where the lidar data comes under the ```lidar1``` topic. Hence, we will make some changes in the default tuturial run file.
 
