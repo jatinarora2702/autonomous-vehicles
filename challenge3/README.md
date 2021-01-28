@@ -43,6 +43,8 @@ Make sure ```catkin``` is setup and a Catkin workspace is there. In my case, I c
 
 Then, clone the above Hector Slam GitHub repo into ```catkin_ws/src``` and run ```catkin_make``` to build it.
 
+I found [this tutorial](https://hackaday.io/project/7284-oscar-omni-service-cooperative-assistant-robot/log/26164-first-foray-into-ros) helpful for understanding how to use Catkin and work with Hector SLAM. 
+
 All Set!
 
 ## Dataset
