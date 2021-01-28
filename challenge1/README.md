@@ -24,7 +24,7 @@ For installing some dependencies like, ```pacmod_msgs``` and ```cv_bridge```, us
 $ sudo apt-get install ros-kinetic-pacmod-msgs
 ```
 
-For running, startup ROS Core (in one terminal) and run ```brake.py``` (in separate terminal).
+For running, startup ROS Core (in one terminal) and run ```brake.py``` (on separate terminal).
 
 ```bash
 # start up ROS Core
