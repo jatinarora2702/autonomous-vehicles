@@ -47,7 +47,7 @@ All Set!
 
 ## Dataset
 
-The ROS Bag files can be downloaded from [here]().
+The ROS Bag files (indoor and outdoor) can be downloaded from [here](https://zenodo.org/record/4467486#.YBJeu-hKhPZ).
 
 ## Running
 
