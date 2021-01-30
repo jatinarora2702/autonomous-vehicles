@@ -14,7 +14,7 @@ More details on assignments and project work can be found in their respective di
 
 * [Project](project): Pedestrian Follower with PID control
 
-* [Miscellaneous](misc): Code to configure ROS subscribers and publishers to control the vehicle (with and without PID control)
+* [Miscellaneous](misc): Codes for controlling the AV using a keyboard, with and without PID control
 
 ## Requirements
 
