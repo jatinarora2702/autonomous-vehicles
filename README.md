@@ -2,6 +2,26 @@
 
 The repo contains the codes of my experience with autonomous vehicles as part of the [CS 598 MAAV: Methods for Building Autonomous Vehicles](http://luthuli.cs.uiuc.edu/~daf/courses/MAAV-2020/598-2020-home.html) course, taught by [Prof. David Forsyth](http://luthuli.cs.uiuc.edu/~daf/) at UIUC.
 
+#### Homework 1 (Object Detection - ImageNet)
+
+Pick any 10 ImageNet classes and pick 50 images from (1) ImageNet validation set, (2) image search results on Google or Bing. Compare the accuracy of a pretrained ResNet-18 model on these two and identify potential reasons for difference. Code: [homework1](homework1)
+
+#### Challenge 1 (Brake on Detecting Pedestrian)
+
+Cause the vehicle to brake after detecting a person. Code: [challenge1](challenge1)
+
+#### Challenge 2 (SLAM)
+
+Build a map of high bay using lidar and ros mapping software. Use a particle filter to localize in this map, using either lidar or vision. Code: [challenge2](challenge2)
+
+#### Challenge 3 (Indoor and Outdoor SLAM)
+
+Does Direct SLAM work better in an indoor area or outdoor area? Code: [challenge3](challenge3)
+
+#### Project (Pedestrian Follower with PID control)
+
+Program an AV to follow a selected person in its field of view by simultaneously tuning two PID controllers (to control steering angle and vehicle speed). The vehicle is allowed to accelerate, brake, reverse, steer, change gears. Code: [project](project)
+
 More details on assignments and project work can be found in their respective directories.
 
 ## Requirements
