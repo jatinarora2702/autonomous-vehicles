@@ -14,6 +14,8 @@ More details on assignments and project work can be found in their respective di
 
 * [Project](project): Pedestrian Follower with PID control
 
+* [Miscellaneous](misc): Code to configure ROS subscribers and publishers to control the vehicle (with and without PID control)
+
 ## Requirements
 
 All experiments are done on the vehicle platform by [AutonomousStuff](https://autonomoustuff.com/).
